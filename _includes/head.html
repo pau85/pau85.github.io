@@ -94,6 +94,10 @@
     {% endfor %}
   {% endif %}
 
+  <!-- My styles.css here -->
+  <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
+
+
   {% if site.fb_app_id %}
   <meta property="fb:app_id" content="{{ site.fb_app_id }}">
   {% endif %}
