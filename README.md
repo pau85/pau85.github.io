@@ -2,4 +2,6 @@
 
 # Author (this README.md): Paulette Melchiori
 
+# example of _posts are in archive
+
 https://pau85.github.io
