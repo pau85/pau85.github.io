@@ -6,9 +6,34 @@ layout: home
     <div class="col-md-12">
       <a href="/toe-beans" target="_blank">
         <div class="card">
-          <img src='https://pau85.github.io/assets/img/Justbuddybeingbuddy.png' alt='Justbuddybeingbuddy' class="card-img-top" height='630px'">
+          <img src='/assets/img/Justbuddybeingbuddy.png' alt='Justbuddybeingbuddy' class="card-img-top custom-image" height='630px'>
         </div>
       </a>
+      <div class="speech-bubble">
+        <img src='assets/img/kitty-speech-bubble.png' alt='kitty-speech-bubble' class="card-img-top custom-image kitty-speech-bubble">
+          <p id="butters-text"></p>
+          <script>
+            document.addEventListener("DOMContentLoaded", function() {
+              const text = "Hey... I'm Butters, Paulette's cat. You should click on me.";
+              let index = 0;
+              const speed = 50; // Adjust the speed of typing
+              const pauseDuration = 2000; // Pause duration in milliseconds (2 seconds)
+          
+              function typeWriter() {
+                if (index < text.length) {
+                  document.getElementById("butters-text").innerHTML += text.charAt(index);
+                  if(text[index] === '.'){
+                      index++;
+                      setTimeout(typeWriter, pauseDuration);
+                    } else {
+                      index++;
+                      setTimeout(typeWriter, speed);                  
+                    }
+                }
+              }
+            })
+          </script>
+      </div>
     </div>
   </div>
 </div>
