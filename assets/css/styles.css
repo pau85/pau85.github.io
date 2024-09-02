@@ -1,8 +1,16 @@
+@font-face {
+  font-family: 'Emulogic-zrEw';
+  src: url('/assets/fonts/Emulogic-zrEw.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 body, html {
   margin: 0;
   padding: 0;
   height: 100%;
   width: 100%;
+  font-family: 'Emulogic-zrEw', sans-serif;
 }
 
 .header, .footer {
@@ -67,3 +75,4 @@ body, html {
   width: 200px;
   z-index: 3;
 }
+
