@@ -25,7 +25,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://pau85.github.io/"
+  # Author's home: "https://pau85.github.io/"
 
 ################
 # --- Logo --- #
