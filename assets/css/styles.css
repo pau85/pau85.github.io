@@ -41,8 +41,6 @@ img .card-img-top .custom-image {
   padding:0px; 
   margin:0px; 
   background-color: transparent;
-  position: relative;
-  right: 35%;
   height: calc(100vh - 50px); /* Full height minus header and footer height */
   width: 100%;
   object-fit: cover;
@@ -51,6 +49,7 @@ img .card-img-top .custom-image {
 
 .card {
   background-color: transparent;
+  width: auto;
 }
 
 .kitty-speech-bubble {
@@ -59,18 +58,18 @@ img .card-img-top .custom-image {
   bottom: 550px;
 }
 
-.buttersbeingbutterscontainer {
-  position: relative; /* Ensure the container is positioned relative to its normal position */
-  top: -50px; /* Adjust this value to control the overlap amount */
+/* .buttersbeingbutterscontainer { */
+  /* position: relative; /* Ensure the container is positioned relative to its normal position */
+  /* top: -50px; Adjust this value to control the overlap amount */ 
   /* padding: 20px; Add padding if needed */
-  z-index: 1; /* Ensure the container is above other elements */
+  /* z-index: 1; Ensure the container is above other elements */
 /* Adjust the size and shape of the title-img */
 /* .title-img {
   width: 200px; /* Adjust the width as needed */
   /* height: 200px; Adjust the height as needed */
   /* border-radius: 50%; Make the image circular */
   /* object-fit: cover; Ensure the image covers the available space */
-/* } */ }
+/* } */
 
 
 /* #butters-text {
