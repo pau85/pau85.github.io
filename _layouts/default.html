@@ -1,6 +1,9 @@
 ---
 layout: base
 ---
+<!DOCTYPE html>
+<html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,27 +11,37 @@ layout: base
   <link rel="stylesheet" href="{{ '/assets/css/bootstrap.min.css' | relative_url }}">
   <script src="{{ '/assets/js/jquery.min.js' | relative_url }}"></script>
   <script src="{{ '/assets/js/popper.min.js' | relative_url }}"></script>
-  <script src="{{ '/assets/js/bootstrap.min.js' | relative_url }}"></script>  
+  <script src="{{ '/assets/js/bootstrap.min.js' | relative_url }}"></script>
 </head>
 
-<div class="intro-header"></div>
+<body>
+  <div class="intro-header"></div>
 
-<main class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}">
-  {% if page.before-content %}
+  <main class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}">
+    {% if page.before-content %}
     <div class="before-content">
       {% for file in page.before-content %}
-        {% include {{ file }} %}
+      {% include {{ file }} %}
       {% endfor %}
     </div>
-  {% endif %}
+    {% endif %}
 
-  {{ content }}
+    {{ content }}
+    <script>
+      function openToeBeansWindow() {
+        window.open('/toe-beans', 'toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=no,width=800,height=600');
+        return false;
+      }
+    </script>
 
-  {% if page.after-content %}
+    {% if page.after-content %}
     <div class="after-content">
       {% for file in page.after-content %}
-        {% include {{ file }} %}
+      {% include {{ file }} %}
       {% endfor %}
     </div>
-  {% endif %}
-</main>
+    {% endif %}
+  </main>
+</body>
+
+</html>

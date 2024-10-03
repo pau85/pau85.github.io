@@ -21,7 +21,12 @@ author: Paulette Melchiori
 
 navbar-links:
   About Me: "aboutme"
-  Animation Projects: "animationProjects"
+  Projects:
+    - Animation: "animationProjects"
+    - React:
+      - Tech Stack, Tools and Other Tech: "techstacktools"
+    # - CSS: 
+    # - Raspberry Pi:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
