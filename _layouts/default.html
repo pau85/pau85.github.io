@@ -27,12 +27,13 @@ layout: base
     {% endif %}
 
     {{ content }}
-    <script>
+    <!-- <script>
       function openToeBeansWindow() {
-        window.open('/toe-beans', 'toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=no,width=800,height=600');
+        // window.open('/toe-beans', '_blank', 'toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=no,width=800,height=600');
+        window.open('http://localhost:3000/toe-beans', '_blank', 'toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=no,width=800,height=600');
         return false;
       }
-    </script>
+    </script> -->
 
     {% if page.after-content %}
     <div class="after-content">
