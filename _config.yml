@@ -21,6 +21,7 @@ author: Paulette Melchiori
 
 navbar-links:
   About Me: "aboutme"
+  My Skillset: "techskills"
   Projects:
     - Animation: "animationProjects"
     - React:
