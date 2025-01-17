@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome... one and all"
+title: "Welcome!"
 date: 2025-01-16 22:24:00 -0600
 categories: blog
 ---
