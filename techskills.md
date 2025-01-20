@@ -71,52 +71,60 @@ h1 {
     </thead> -->
     <tbody>
         <tr>
-            <div class="skill">
-                <img src="/assets/img/skills/react-100x100.png" alt="React">
-                <div class="tooltip">React</div>
-            </div>
+            <td>
+                <div class="skill">
+                    <img src="/assets/img/skills/react-100x100.png" alt="React">
+                    <div class="tooltip">React</div>
+                </div>
+            </td>
+            <td>
+                <div class="skill">
+                    <img src="/assets/img/skills/typescript.png" alt="TypeScript">
+                    <div class="tooltip">TypeScript</div>
+                </div>
+            </td>
         </tr>
         <tr>
-            <div class="skill">
-                <img src="/assets/img/skills/typescript.png" alt="TypeScript">
-                <div class="tooltip">TypeScript</div>
-            </div>
-        </tr>
-        <tr>
-            <div class="skill">
-                <img src="/assets/img/skills/html.jfif" alt="HTML">
-                <div class="tooltip">HTML</div>
-            </div>
-        </tr>
-        <tr>
+            <td>
+                <div class="skill">
+                    <img src="/assets/img/skills/html.jfif" alt="HTML">
+                    <div class="tooltip">HTML</div>
+                </div>
+            </td>
+            <td>
                 <div class="skill">
                     <img src="/assets/img/skills/javascript.png" alt="JavaScript">
                     <div class="tooltip">JavaScript</div>
                 </div>
+            </td>
         </tr>
         <tr>
-            <div class="skill">
-                <img src="/assets/img/skills/nodejs.jfif" alt="NodeJs">
-                <div class="tooltip">NodeJS</div>
-            </div>
+            <td>
+                <div class="skill">
+                    <img src="/assets/img/skills/nodejs.jfif" alt="NodeJs">
+                    <div class="tooltip">NodeJS</div>
+                </div>
+            </td>
+            <td>
+                <div class="skill">
+                    <img src="/assets/img/skills/markdown.jfif" alt="Markdown">
+                    <div class="tooltip">Markdown</div>
+                </div>
+            </td>
         </tr>
         <tr>
-            <div class="skill">
-                <img src="/assets/img/skills/markdown.jfif" alt="Markdown">
-                <div class="tooltip">Markdown</div>
-            </div>
-        </tr>
-        <tr>
-            <div class="skill">
-                <img src="/assets/img/skills/redux.jfif" alt="Redux">
-                <div class="tooltip">Redux</div>
-            </div>
-        </tr>
-        <tr>
-            <div class="skill">
-                <img src="/assets/img/skills/restful-api.jfif" alt="Redux">
-                <div class="tooltip">Redux</div>
-            </div>
+            <td>
+                <div class="skill">
+                    <img src="/assets/img/skills/redux.jfif" alt="Redux">
+                    <div class="tooltip">Redux</div>
+                </div>
+            </td>
+            <td>
+                <div class="skill">
+                    <img src="/assets/img/skills/restful-api.jfif" alt="Redux">
+                    <div class="tooltip">Redux</div>
+                </div>
+            </td>
         </tr>
         <!-- Add more rows as needed -->
     </tbody>
