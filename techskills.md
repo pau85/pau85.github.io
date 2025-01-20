@@ -57,7 +57,7 @@ h1 {
     text-align: center; /* Center align the title */
     font-size: 2.5em; /* Adjust the size as needed */
     margin-top: 20px; /* Add some top margin */
-    padding: 10px;
+    padding: 25px;
 }
 </style>
 
