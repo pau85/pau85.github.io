@@ -23,7 +23,7 @@ layout: page
             <tr>
                 <center>
                     <a href="https://play.unity.com/en/games/57a22655-de6a-433f-a8ad-d9123fb28dcf/webgl-builds">
-                        <img src="/assets/img/thumbnail-unity-1.png" alt="2D unity video">
+                        <img src="/assets/img/thumbnail-unity-1.png" width="560" alt="2D unity video">
                     </a>
                 </center>
             </tr>
