@@ -24,8 +24,8 @@ navbar-links:
   My Skillset: "techskills"
   Projects:
     - Animation: "animationProjects"
-    - React:
-      - Tech Stack, Tools and Other Tech: "techstacktools"
+    # - React:
+    #   - Tech Stack, Tools and Other Tech: "techstacktools"
     # - CSS: 
     # - Raspberry Pi:
   Resources:
