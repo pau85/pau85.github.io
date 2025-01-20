@@ -22,7 +22,6 @@ layout: page
         /*Resize images in GIMP to be 100px x 100 px*/
 
         width: 100px;
-        /* height: 100px;  */
         border-radius: 10px;
     }
 
@@ -49,27 +48,22 @@ layout: page
     }
    
 table thead tr, table tbody tr {
-    background-color: #282828 !important; /* Set your desired background color */
-    color: white; /* Optional: Set text color to white for better contrast */
+    background-color: #282828 !important; 
+    color: white; 
 }
 
 h1 {
-    text-align: center; /* Center align the title */
-    font-size: 2.5em; /* Adjust the size as needed */
-    margin-top: 20px; /* Add some top margin */
+    text-align: center; 
+    font-size: 2.5em; 
+    margin-top: 20px; 
     padding: 25px;
 }
 </style>
 
-<!-- ## Professional Web Development Experience -->
+<!-- Development Experience -->
 <h1>My Skillset</h1>
 <center>
 <table>
-    <!-- <thead>
-        <tr>
-            <th>Front-End Tech</th>
-        </tr>
-    </thead> -->
     <tbody>
         <tr>
             <td>
@@ -175,52 +169,3 @@ h1 {
     </tbody>
 </table>
 </center>
-<!-- 
-<table>
-    <thead>
-        <tr>
-            <th>Back-End Tech</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <div class="skill">
-                <img src="/assets/img/skills/csharp.jfif" alt="C#">
-                <div class="tooltip">C#</div>
-            </div>
-        </tr>
-        <tr>
-            <div class="skill">
-                <img src="/assets/img/skills/ibm-mainframe.jfif" alt="Mainframe">
-                <div class="tooltip">Mainframe</div>
-            </div>
-        </tr>
-        <tr>
-            <div class="skill">
-                <img src="/assets/img/skills/ibm-db2.png" alt="DB2">
-                <div class="tooltip">DB2</div>
-            </div>
-        </tr>
-    </tbody>
-</table> -->
-<!-- Professional Web Development Experience
-Tech Stack:
-React-Redux
-TypeScript and some Javascript
-HTML/CSS
-
-Tools
-Docker
-GitLab
-Tmux
-iTerm
-PowerShell
-VSCode
-
-External Systems
-Kafka
-Kubernetes
-
-Professional Backend Programming Experience
-
-Personal Project Experience -->
