@@ -16,6 +16,3 @@ And when I'm not coding, watching/creating animations, or writing, I'm a proud C
 
 So, whether you're here for the tech insights, the animation discussions, the engaging writing, or the occasional cat story, welcome! I'm glad you're here, and I hope you find something that resonates with you.
 
-### My story
-
-A long time ago in a galaxy far, far away...
