@@ -16,12 +16,11 @@ title: Animation Projects
         margin-top: 20px; 
         padding: 25px;
     }
-    
+
 </style>
 
 
 <center>
-<h1>My Animation Projects</h1>
 <table>
     <tbody>
         <tr>
