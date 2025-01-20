@@ -13,8 +13,8 @@ layout: page
     position: relative;
     margin: 10px;
     display: flex;
-    justify-content: center; /* Center horizontally */
-    align-items: center; /* Center vertically */
+    justify-content: center; 
+    align-items: center; 
 }
 
     .skill img {
