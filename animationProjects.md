@@ -3,11 +3,11 @@ layout: page
 ---
 <style>
     h1 {
-    text-align: center; 
-    font-size: 2.5em; 
-    margin-top: 20px; 
-    padding: 25px;
-}
+        text-align: center; 
+        font-size: 2.5em; 
+        margin-top: 20px; 
+        padding: 25px;
+    }
 </style>
 
 <center>
