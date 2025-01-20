@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About me
-subtitle: 
 ---
 
 Hello! I'm Paulette Melchiori and I built this website in using the Jekyll framework. I started this website in May of 2024 which was roughly 5 months into switching tech stacks from Mainframe to Web Development with React-Redux, Node and TypeScript. While I had taken many courses in Web Development in college at UW-Whitewater, I still had a lot to catch back up on. It was a happy return, and ever since I have been exploring more and more frameworks and tools to use while developing. 
