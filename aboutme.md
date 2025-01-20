@@ -4,15 +4,12 @@ title: About me
 subtitle: 
 ---
 
-Hello! I'm a Software Engineer with a passion for Animation and Writing. I spend my days immersed in code, creating innovative solutions and pushing the boundaries of technology. Whether its at my current React engineering role at Northwestern Mutual, or my personal Animation Rendering project, I spend most of my time exploring and seeing what all is out there for me to experiment on.
+Hello! I'm Paulette Melchiori and I built this website in using the Jekyll framework. I started this website in May of 2024 which was roughly 5 months into switching tech stacks from Mainframe to Web Development with React-Redux, Node and TypeScript. While I had taken many courses in Web Development in college at UW-Whitewater, I still had a lot to catch back up on. It was a happy return, and ever since I have been exploring more and more frameworks and tools to use while developing. 
 
-I have a strong desire to have an outlet for my creativity through art and animation. Since switching tech stacks recently to React, I have decided to combine my Animation hobby with my React training. While during the day, I work on development tasks in React for an Insurance Application system, at night, I dive into other usages of React incorporating my basic cat animation. 
+Also I have a passion for animation, programming and writing. In my experience to stay on top of tech, it requires a routine of study and project work outside of work. I really enjoy combining my hobby of animation with programming as a combined hobby. It gives me a chance to try out some new tech and also make it really fun with animation and art. 
 
-As a budding writer, I use this space to share my thoughts, experiences, and insights. From in-depth technical guides and industry culture pieces to personal reflections, you'll find a wide range of topics here. My goal is to unravel the complexities of technology and make it accessible to everyone. I aim to provide practical tips, effective strategies, and helpful techniques for self-learning in the tech field. I believe in the power of shared experiences and plan to offer insights from my own journey. A significant part of my narrative will be dedicated to chronicling my adventures with my React project. 
+Feel free to leave comments or feedback on any of my projects listed. I am always open to learning new things and appreciate any constructive feedback given.
 
-I’m committed to maintaining transparency and fostering a dialogue with my readers. Feel free to leave comments or feedback on any of my projects listed. I am always open to learning new things and appreciate any constructive feedback given.
+When I'm not coding, watching/creating animations, or writing, I'm a proud mom of 2 geriatric cats, Butters (14) and Margie (13) and have a wonderful husband, Aaron. Aaron and I love to go to concerts, camp and travel across the country when we aren't hanging out with our cats watching tv shows.
 
-And when I'm not coding, watching/creating animations, or writing, I'm a proud Cat Mom. My cats, Butters (14) and Margie (13), keep me company and remind me to take breaks and enjoy the little things in life.
-
-So, whether you're here for the tech insights, the animation discussions, the engaging writing, or the occasional cat story, welcome! I'm glad you're here, and I hope you find something that resonates with you.
-
+So, whether you're here for the tech insights, the animation discussions or the occasional cat story, welcome!
