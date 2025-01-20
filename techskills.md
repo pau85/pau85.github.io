@@ -21,8 +21,8 @@ layout: page
         /*To Do*/
         /*Resize images in GIMP to be 100px x 100 px*/
 
-        /* width: 200px; */
-        /* height: 100px; */
+        width: 200px;
+        height: 100px; 
         border-radius: 10px;
     }
 
