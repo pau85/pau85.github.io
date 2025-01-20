@@ -3,13 +3,6 @@ layout: page
 title: Animation Projects
 ---
 
-<style>
-    table thead tr, table tbody tr {
-        background-color: #282828 !important; 
-        color: white; 
-    }
-</style>
-
 <center>
     <table>
         <tbody>
