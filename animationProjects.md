@@ -1,9 +1,17 @@
 ---
 layout: page
-title: Animation Projects
 ---
+<style>
+    h1 {
+    text-align: center; 
+    font-size: 2.5em; 
+    margin-top: 20px; 
+    padding: 25px;
+}
+</style>
 
 <center>
+    <h1>Animation Projects</h1>
     <table>
         <tbody>
             <tr>
