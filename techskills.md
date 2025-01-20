@@ -59,7 +59,6 @@ h1 {
     margin-top: 20px; /* Add some top margin */
     padding: 10px;
 }
-</sty
 </style>
 
 <!-- ## Professional Web Development Experience -->
@@ -122,7 +121,7 @@ h1 {
         <!-- Add more rows as needed -->
     </tbody>
 </table>
-
+<!-- 
 <table>
     <thead>
         <tr>
@@ -149,7 +148,7 @@ h1 {
             </div>
         </tr>
     </tbody>
-</table>
+</table> -->
 <!-- Professional Web Development Experience
 Tech Stack:
 React-Redux
