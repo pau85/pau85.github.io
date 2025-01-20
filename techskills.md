@@ -63,6 +63,7 @@ h1 {
 
 <!-- ## Professional Web Development Experience -->
 <h1>My Skillset</h1>
+<center>
 <table>
     <!-- <thead>
         <tr>
@@ -129,6 +130,7 @@ h1 {
         <!-- Add more rows as needed -->
     </tbody>
 </table>
+</center>
 <!-- 
 <table>
     <thead>
