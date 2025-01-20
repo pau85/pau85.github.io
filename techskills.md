@@ -64,11 +64,11 @@ h1 {
 <!-- ## Professional Web Development Experience -->
 <h1>My Skillset</h1>
 <table>
-    <thead>
+    <!-- <thead>
         <tr>
             <th>Front-End Tech</th>
         </tr>
-    </thead>
+    </thead> -->
     <tbody>
         <tr>
             <div class="skill">
