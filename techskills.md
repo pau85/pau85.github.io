@@ -68,113 +68,56 @@ h1 {
     <thead>
         <tr>
             <th>Front-End Tech</th>
-            <th>Notable Experience</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>
-                <div class="skill">
-                    <img src="/assets/img/skills/react-100x100.png" alt="React">
-                    <div class="tooltip">React</div>
-                </div>
-            </td>
-            <td>
-                <ul>
-                    <li>Developed multiple single-page applications using React and Redux.</li>
-                </ul>
-            </td>
+            <div class="skill">
+                <img src="/assets/img/skills/react-100x100.png" alt="React">
+                <div class="tooltip">React</div>
+            </div>
         </tr>
         <tr>
-            <td>
-                <div class="skill">
-                    <img src="/assets/img/skills/typescript.png" alt="TypeScript">
-                    <div class="tooltip">TypeScript</div>
-                </div>
-            </td>
-            <td>
-                <ul>
-                    <li>Implemented type-safe code with TypeScript for better maintainability.</li>
-                </ul>
-            </td>
+            <div class="skill">
+                <img src="/assets/img/skills/typescript.png" alt="TypeScript">
+                <div class="tooltip">TypeScript</div>
+            </div>
         </tr>
         <tr>
-            <td>
-                <div class="skill">
-                    <img src="/assets/img/skills/html.jfif" alt="HTML">
-                    <div class="tooltip">HTML</div>
-                </div>
-            </td>
-            <td>
-                <ul>
-                    <li>Implemented multiple features using HTML for Northwestern Mutual as well as my own website here.</li>
-                </ul>
-            </td>
-                <tr>
-            <td>
+            <div class="skill">
+                <img src="/assets/img/skills/html.jfif" alt="HTML">
+                <div class="tooltip">HTML</div>
+            </div>
+        </tr>
+        <tr>
                 <div class="skill">
                     <img src="/assets/img/skills/javascript.png" alt="JavaScript">
                     <div class="tooltip">JavaScript</div>
                 </div>
-            </td>
-            <td>
-                <ul>
-                    <li>Add JavaScript experience here.</li>
-                </ul>
-            </td>
-        </tr>
-        </tr>
-                <tr>
-            <td>
-                <div class="skill">
-                    <img src="/assets/img/skills/nodejs.jfif" alt="NodeJs">
-                    <div class="tooltip">NodeJS</div>
-                </div>
-            </td>
-            <td>
-                <ul>
-                    <li>Add NodeJS experience here.</li>
-                </ul>
-            </td>
-        </tr>
-            <tr>
-            <td>
-                <div class="skill">
-                    <img src="/assets/img/skills/markdown.jfif" alt="Markdown">
-                    <div class="tooltip">Markdown</div>
-                </div>
-            </td>
-            <td>
-                <ul>
-                    <li>Add Markdown experience here.</li>
-                </ul>
-            </td>
-        </tr>
-            <tr>
-            <td>
-                <div class="skill">
-                    <img src="/assets/img/skills/redux.jfif" alt="Redux">
-                    <div class="tooltip">Redux</div>
-                </div>
-            </td>
-            <td>
-                <ul>
-                    <li>Add Redux experience here.</li>
-                </ul>
-            </td>
         </tr>
         <tr>
-            <td>
-                <div class="skill">
-                    <img src="/assets/img/skills/restful-api.jfif" alt="Redux">
-                    <div class="tooltip">Redux</div>
-                </div>
-            </td>
-            <td>
-                <ul>
-                    <li>Add Redux experience here.</li>
-                </ul>
-            </td>
+            <div class="skill">
+                <img src="/assets/img/skills/nodejs.jfif" alt="NodeJs">
+                <div class="tooltip">NodeJS</div>
+            </div>
+        </tr>
+        <tr>
+            <div class="skill">
+                <img src="/assets/img/skills/markdown.jfif" alt="Markdown">
+                <div class="tooltip">Markdown</div>
+            </div>
+        </tr>
+        <tr>
+            <div class="skill">
+                <img src="/assets/img/skills/redux.jfif" alt="Redux">
+                <div class="tooltip">Redux</div>
+            </div>
+        </tr>
+        <tr>
+            <div class="skill">
+                <img src="/assets/img/skills/restful-api.jfif" alt="Redux">
+                <div class="tooltip">Redux</div>
+            </div>
         </tr>
         <!-- Add more rows as needed -->
     </tbody>
@@ -184,48 +127,26 @@ h1 {
     <thead>
         <tr>
             <th>Back-End Tech</th>
-            <th>Notable Experience</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>
-                <div class="skill">
-                    <img src="/assets/img/skills/csharp.jfif" alt="C#">
-                    <div class="tooltip">C#</div>
-                </div>
-            </td>
-            <td>
-                <ul>
-                    <li>Add C# experience here.</li>
-                </ul>
-            </td>
+            <div class="skill">
+                <img src="/assets/img/skills/csharp.jfif" alt="C#">
+                <div class="tooltip">C#</div>
+            </div>
         </tr>
         <tr>
-            <td>
-                <div class="skill">
-                    <img src="/assets/img/skills/ibm-mainframe.jfif" alt="Mainframe">
-                    <div class="tooltip">Mainframe</div>
-                </div>
-            </td>
-            <td>
-                <ul>
-                    <li>Add Mainframe experience here.</li>
-                </ul>
-            </td>
+            <div class="skill">
+                <img src="/assets/img/skills/ibm-mainframe.jfif" alt="Mainframe">
+                <div class="tooltip">Mainframe</div>
+            </div>
         </tr>
         <tr>
-            <td>
-                <div class="skill">
-                    <img src="/assets/img/skills/ibm-db2.png" alt="DB2">
-                    <div class="tooltip">DB2</div>
-                </div>
-            </td>
-            <td>
-                <ul>
-                    <li>Add DB2 experience here.</li>
-                </ul>
-            </td>
+            <div class="skill">
+                <img src="/assets/img/skills/ibm-db2.png" alt="DB2">
+                <div class="tooltip">DB2</div>
+            </div>
         </tr>
     </tbody>
 </table>
