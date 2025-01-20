@@ -3,8 +3,25 @@ layout: page
 title: Animation Projects
 ---
 
-<h1>My Animation Projects</h1>
+<style>
+
+    table thead tr, table tbody tr {
+        background-color: #282828 !important; 
+        color: white; 
+    }
+
+    h1 {
+        text-align: center; 
+        font-size: 2.5em; 
+        margin-top: 20px; 
+        padding: 25px;
+    }
+    
+</style>
+
+
 <center>
+<h1>My Animation Projects</h1>
 <table>
     <tbody>
         <tr>
