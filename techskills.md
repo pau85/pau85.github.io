@@ -80,12 +80,24 @@ h1 {
             </td>
             <td>
                 <div class="skill">
+                    <img src="/assets/img/skills/redux.jfif" alt="Redux">
+                    <div class="tooltip">Redux</div>
+                </div>
+            </td>
+            <td>
+                <div class="skill">
                     <img src="/assets/img/skills/typescript.png" alt="TypeScript">
                     <div class="tooltip">TypeScript</div>
                 </div>
             </td>
         </tr>
         <tr>
+            <td>
+                <div class="skill">
+                    <img src="/assets/img/skills/nodejs.jfif" alt="NodeJs">
+                    <div class="tooltip">NodeJS</div>
+                </div>
+            </td>
             <td>
                 <div class="skill">
                     <img src="/assets/img/skills/html.jfif" alt="HTML">
@@ -102,28 +114,60 @@ h1 {
         <tr>
             <td>
                 <div class="skill">
-                    <img src="/assets/img/skills/nodejs.jfif" alt="NodeJs">
-                    <div class="tooltip">NodeJS</div>
+                    <img src="/assets/img/skills/markdown.jfif" alt="Markdown">
+                    <div class="tooltip">Markdown</div>
                 </div>
             </td>
             <td>
                 <div class="skill">
-                    <img src="/assets/img/skills/markdown.jfif" alt="Markdown">
-                    <div class="tooltip">Markdown</div>
+                    <img src="/assets/img/skills/restful-api.jfif" alt="restful-api">
+                    <div class="tooltip">Restful-API</div>
+                </div>
+            </td>
+            <td>
+                <div class="skill">
+                    <img src="/assets/img/skills/docker.png" alt="docker">
+                    <div class="tooltip">Docker</div>
                 </div>
             </td>
         </tr>
         <tr>
             <td>
                 <div class="skill">
-                    <img src="/assets/img/skills/redux.jfif" alt="Redux">
-                    <div class="tooltip">Redux</div>
+                    <img src="/assets/img/skills/java.png" alt="java">
+                    <div class="tooltip">Java</div>
                 </div>
             </td>
             <td>
                 <div class="skill">
-                    <img src="/assets/img/skills/restful-api.jfif" alt="Redux">
-                    <div class="tooltip">Redux</div>
+                    <img src="/assets/img/skills/csharp.jfif" alt="csharp">
+                    <div class="tooltip">C#</div>
+                </div>
+            </td>
+            <td>
+                <div class="skill">
+                    <img src="/assets/img/skills/python.jfif" alt="python">
+                    <div class="tooltip">Python</div>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div class="skill">
+                    <img src="/assets/img/skills/ibm-mainframe.jfif" alt="mainframe">
+                    <div class="tooltip">Mainframe</div>
+                </div>
+            </td>
+            <td>
+                <div class="skill">
+                    <img src="/assets/img/skills/jcl-mainframe.jfif" alt="jcl">
+                    <div class="tooltip">JCL</div>
+                </div>
+            </td>
+            <td>
+                <div class="skill">
+                    <img src="/assets/img/skills/pl1-ibm-mainframe.jfif" alt="PL1">
+                    <div class="tooltip">PL1</div>
                 </div>
             </td>
         </tr>
