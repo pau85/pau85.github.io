@@ -7,7 +7,7 @@ layout: page
 
   <script>
     function openFeedbackPage() {
-      window.open('localhost:9000/feedback-app', '_self);
+      window.open('/feedback-app', '_self);
       return false;
     }
   </script>
