@@ -10,3 +10,7 @@ Welcome to my website! It's my vessel to show of all of my projects, whether it 
 
 Other projects in the works currently:
 I also have a project started with Raspberry Pi. I plan to start a new section on this once I have something written up for it and take some pics. So far I have my Raspberry Pi hooked up with my network and I am able to remote into it through Putty. A while back I did some internship work with Arduino boards and Java, so I am really excited to see what I can do with the Raspberry Pi.
+
+1/26/2025
+Added a new Feedback page and updated Skillset page.
+
