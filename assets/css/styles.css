@@ -14,34 +14,34 @@ body, html {
 }
 
 .header, .footer {
-  height: 250px; /* Adjust as needed */
+  height: 250px; 
   text-align: center;
-  line-height: 50px; /* Center text vertically */
+  line-height: 50px;
   position: relative;
-  z-index: 10; /* Ensure header and footer are above the main content */
+  z-index: 10; 
 }
 
 .content {
   position: relative;
-  z-index: 1; /* Ensure content is below header and footer */
-  margin-top: -50px; /* Move content up behind the header */
-  padding-top: 50px; /* Adjust padding to account for the header */
-  margin-bottom: -50px; /* Move content down behind the footer */
-  padding-bottom: 50px; /* Adjust padding to account for the footer */
+  z-index: 1; 
+  margin-top: -50px;
+  padding-top: 50px; 
+  margin-bottom: -50px; 
+  padding-bottom: 50px;
 
 }
 
 .image-button img {
   width: 100%;
-  height: calc(100vh - 1000px); /* Full height minus header and footer height */
-  object-fit: cover; /* Ensure the image covers the available space */
+  height: calc(100vh - 1000px); 
+  object-fit: cover; 
 }
 
 img .card-img-top .custom-image {
   padding:0px; 
   margin:0px; 
   background-color: transparent;
-  height: calc(100vh - 50px); /* Full height minus header and footer height */
+  height: calc(100vh - 50px); 
   width: 100%;
   object-fit: cover;
 
@@ -58,24 +58,4 @@ img .card-img-top .custom-image {
   bottom: 550px;
 }
 
-/* .buttersbeingbutterscontainer { */
-  /* position: relative; /* Ensure the container is positioned relative to its normal position */
-  /* top: -50px; Adjust this value to control the overlap amount */ 
-  /* padding: 20px; Add padding if needed */
-  /* z-index: 1; Ensure the container is above other elements */
-/* Adjust the size and shape of the title-img */
-/* .title-img {
-  width: 200px; /* Adjust the width as needed */
-  /* height: 200px; Adjust the height as needed */
-  /* border-radius: 50%; Make the image circular */
-  /* object-fit: cover; Ensure the image covers the available space */
-/* } */
-
-
-/* #butters-text {
-  position: relative;
-  background-color: yellow;
-  width: 200px;
-  z-index: 3;
-} */
 
