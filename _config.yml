@@ -28,7 +28,7 @@ navbar-links:
     #   - Tech Stack, Tools and Other Tech: "techstacktools"
     # - CSS: 
     # - Raspberry Pi:
-  Feedback: "feedback"
+  Feedback: "/feedback-app"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
