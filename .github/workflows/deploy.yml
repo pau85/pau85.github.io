@@ -1,0 +1,30 @@
+name: Deploy Feedback App
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+      with:
+        repository: pau85/feedback-app
+        path: feedback-app
+
+    - name: Build Project
+      run: |
+        cd feedback-app
+        npm install
+        npm run build
+
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./feedback-app/build
