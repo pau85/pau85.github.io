@@ -409,15 +409,19 @@ img {
 /* --- Footer --- */
 
 footer {
-  padding: 1.875rem 0;
-  border-top: 1px var(--footer-col) solid;
-  margin-top: 3.125rem;
-  font-size: 0.875rem;
-  background-color: var(--footer-col);
-  {% if site.footer-img %}
-    background-image: url({{ site.footer-img | relative_url }});
-    background-attachment: fixed;
-  {% endif %}
+  background-color: #1C1C1C;
+  color: #A9A9A9;
+  padding: 20px;
+  text-align: center;
+}
+
+footer a {
+  color: #D3D3D3;
+  text-decoration: none;
+}
+
+footer a:hover {
+  color: #00BFFF;
 }
 
 footer p.text-muted {

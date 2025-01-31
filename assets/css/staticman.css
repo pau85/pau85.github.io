@@ -178,3 +178,19 @@
   padding-top: 2em;
   border-top: 1px solid #f2f3f3;
 }
+
+footer {
+  background-color: #1C1C1C;
+  color: #A9A9A9;
+  padding: 20px;
+  text-align: center;
+}
+
+footer a {
+  color: #D3D3D3;
+  text-decoration: none;
+}
+
+footer a:hover {
+  color: #00BFFF;
+}
