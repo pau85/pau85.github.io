@@ -14,3 +14,5 @@ I also have a project started with Raspberry Pi. I plan to start a new section o
 1/26/2025
 Added a new Feedback page and updated Skillset page.
 
+1/30/2025
+Fixing Feedback page. Added another blog post.
